@@ -1,0 +1,1829 @@
+{
+    "data": [
+        {
+            "BMC": "unspecified",
+            "description": "Last Edit by Andrew Wingate 10-29-18",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.10000000000000001,
+                "HAND": true,
+                "LB": 0.20000000000000001,
+                "LCF": 0.20000000000000001,
+                "NOF": 0,
+                "NT": 0,
+                "OAL": 0.20000000000000001,
+                "RE": 0.050000000000000003,
+                "SFDM": 0.01,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.20000000000000001,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "02ab0858-fe60-4f01-8bfe-8ba879f411b3",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 0.14799999999999999,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.83599999999999997,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.17599999999999999,
+                        "lower-diameter": 1.5700000000000001,
+                        "upper-diameter": 1.5700000000000001
+                    },
+                    {
+                        "height": 0.089999999999999997,
+                        "lower-diameter": 1.5700000000000001,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.42499999999999999,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.050000000000000003,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.8500000000000001
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.4420000000000002,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14499999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.11799999999999999,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14299999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.4420000000000002
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1540821885268,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 254,
+                "length-offset": 254,
+                "live": false,
+                "manual-tool-change": false,
+                "number": 254,
+                "tool-coolant": "disabled",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0,
+                    "n": 19.404199999999999,
+                    "n_ramp": 19.404199999999999,
+                    "v_c": 0.50800076807322547,
+                    "v_f": 0,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 39.370100000000001,
+                    "v_f_ramp": 0,
+                    "v_f_retract": 39.370100000000001
+                }
+            },
+            "type": "probe",
+            "unit": "inches",
+            "vendor": "Update this section for each revision"
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "1/4",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.24999999999999997,
+                "HAND": true,
+                "LB": 2.5999999999999996,
+                "LCF": 2.5,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 2.6999999999999997,
+                "RE": 0,
+                "SFDM": 0.24999999999999997,
+                "SIG": 118,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 2.5,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "0eb050e3-ec1d-401f-9e0e-55132922ea0a",
+            "holder": {
+                "description": "Maritool CAT40-APU13 Drill Chuck",
+                "guid": "",
+                "product-id": "CAT40-APU13",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 0.53000000000000003,
+                        "upper-diameter": 0.90000000000000002
+                    },
+                    {
+                        "height": 0.78740200000000005,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.9409400000000001
+                    },
+                    {
+                        "height": 0.19527600000000001,
+                        "lower-diameter": 1.9409400000000001,
+                        "upper-diameter": 1.9409400000000001
+                    },
+                    {
+                        "height": 0.023622000000000001,
+                        "lower-diameter": 1.9409400000000001,
+                        "upper-diameter": 1.9881899999999999
+                    },
+                    {
+                        "height": 0.87204700000000002,
+                        "lower-diameter": 1.9881899999999999,
+                        "upper-diameter": 1.9881899999999999
+                    },
+                    {
+                        "height": 0.049212600000000002,
+                        "lower-diameter": 1.9881899999999999,
+                        "upper-diameter": 1.8897600000000001
+                    },
+                    {
+                        "height": 0.64960600000000002,
+                        "lower-diameter": 1.8897600000000001,
+                        "upper-diameter": 1.8897600000000001
+                    },
+                    {
+                        "height": 0.137795,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.4420000000000002,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14499999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.11799999999999999,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14299999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.4420000000000002
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1547191600682,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 123,
+                "length-offset": 123,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 123,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0050000000000000001,
+                    "n": 3819.7186342054874,
+                    "n_ramp": 3819.7186342054874,
+                    "v_c": 249.99999999999994,
+                    "v_f": 0,
+                    "v_f_leadIn": 0,
+                    "v_f_leadOut": 0,
+                    "v_f_plunge": 19.098593171027439,
+                    "v_f_ramp": 0,
+                    "v_f_retract": 90
+                }
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .375\" Ballmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.37499999999999994,
+                "HAND": true,
+                "LB": 0.99999999999999989,
+                "LCF": 0.99999999999999989,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.99999999999999989,
+                "RE": 0.18749999999999997,
+                "SFDM": 0.37499999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.99999999999999989,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "10334dd7-11a8-42b0-9794-94667e90188f",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821346123,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 136,
+                "length-offset": 136,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 136,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0026246799999999999,
+                    "f_z": 0.0039370100000000003,
+                    "n": 5000,
+                    "n_ramp": 5000,
+                    "v_c": 490.87385212340502,
+                    "v_f": 39.370100000000001,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 13.1234,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 13.1234
+                }
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .25\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.24999999999999997,
+                "HAND": true,
+                "LB": 0.59999999999999998,
+                "LCF": 0.49999999999999994,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.99999999999999989,
+                "RE": 0,
+                "SFDM": 0.37499999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.59999999999999998,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.24999999999999997,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "2243e22c-3928-4bdf-916f-dee17c0687f2",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821133407,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 137,
+                "length-offset": 137,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 137,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/cutting/end-mills/1-4-x-3-8-hss-2-flute-single-end-mill",
+            "start-values": {
+                "*": {
+                    "f_n": 0.00097276264591439679,
+                    "f_z": 0.0037937743190661478,
+                    "n": 5140,
+                    "n_ramp": 5140,
+                    "v_c": 336.41221332190696,
+                    "v_f": 38.999999999999993,
+                    "v_f_leadIn": 38.999999999999993,
+                    "v_f_leadOut": 38.999999999999993,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .25\" Ballmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.24999999999999997,
+                "HAND": true,
+                "LB": 0.59999999999999998,
+                "LCF": 0.49999999999999994,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.99999999999999989,
+                "RE": 0.12499999999999999,
+                "SFDM": 0.37499999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.59999999999999998,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "587c1124-89bb-4a7e-9e8e-978b354aaf7d",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821351430,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 139,
+                "length-offset": 139,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 139,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/cutting/end-mills/1-4-x-3-8-hss-2-flute-single-end-balls-nose-end-mill",
+            "start-values": {
+                "*": {
+                    "f_n": 0.00097276264591439679,
+                    "f_z": 0.0037937743190661478,
+                    "n": 5140,
+                    "n_ramp": 5140,
+                    "v_c": 336.41221332190696,
+                    "v_f": 38.999999999999993,
+                    "v_f_leadIn": 38.999999999999993,
+                    "v_f_leadOut": 38.999999999999993,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .5\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.49999999999999994,
+                "HAND": true,
+                "LB": 1.1000000000000001,
+                "LCF": 0.99999999999999989,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 1.1000000000000001,
+                "RE": 0,
+                "SFDM": 0.49999999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 1.1000000000000001,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.49999999999999994,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "646e756e-9645-48b4-af6c-8c903174cc65",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540822935585,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 131,
+                "length-offset": 131,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 131,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/cutting/end-mills/1-2-x-1-2-hss-2-flute-single-end-mill",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0014492753623188404,
+                    "f_z": 0.0057971014492753615,
+                    "n": 3450,
+                    "n_ramp": 3450,
+                    "v_c": 451.60394395353262,
+                    "v_f": 40,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "3/8",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.37499999999999994,
+                "HAND": true,
+                "LB": 3.8499999999999996,
+                "LCF": 3.75,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 3.9499999999999993,
+                "RE": 0,
+                "SFDM": 0.37499999999999994,
+                "SIG": 118,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 3.75,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "71eb3207-c93c-4885-96d8-534e1dd00691",
+            "holder": {
+                "description": "\"TTS-3/8\"\" Set Screw Holder\"",
+                "guid": "c7aa5d71-d713-4a21-ae95-265a0c0142eb",
+                "product-id": "31820",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 10.720000000000001,
+                        "lower-diameter": 22,
+                        "upper-diameter": 32
+                    },
+                    {
+                        "height": 19,
+                        "lower-diameter": 32,
+                        "upper-diameter": 32
+                    },
+                    {
+                        "height": 6.7000000000000002,
+                        "lower-diameter": 38.100000000000001,
+                        "upper-diameter": 38.100000000000001
+                    },
+                    {
+                        "height": 2.3999999999999999,
+                        "lower-diameter": 29.5,
+                        "upper-diameter": 29.5
+                    },
+                    {
+                        "height": 6.8300000000000001,
+                        "lower-diameter": 38.100000000000001,
+                        "upper-diameter": 38.100000000000001
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1547191620748,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 122,
+                "length-offset": 122,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 122,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0080000000000000002,
+                    "n": 2546.4790894703256,
+                    "n_ramp": 2546.4790894703256,
+                    "v_c": 249.99999999999994,
+                    "v_f": 0,
+                    "v_f_leadIn": 0,
+                    "v_f_leadOut": 0,
+                    "v_f_plunge": 20.371832715762601,
+                    "v_f_ramp": 0,
+                    "v_f_retract": 90
+                }
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "Indexed .625\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.625,
+                "HAND": true,
+                "LB": 1.9684999999999999,
+                "LCF": 0.49999999999999994,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 1.9684999999999999,
+                "RE": 0,
+                "SFDM": 0.49999999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.49999999999999994,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.625,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "88be8239-10db-4c92-a924-1f22fb7b06f5",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1547197749894,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 102,
+                "length-offset": 102,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 102,
+                "tool-coolant": "mist",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/indexable-cutting/indexable-milling/5-8-mini-indexable-end-mills",
+            "start-values": {
+                "*": {
+                    "f_n": 0.001,
+                    "f_z": 0.0065999999999999991,
+                    "n": 5000,
+                    "n_ramp": 5000,
+                    "v_c": 818.1230868723419,
+                    "v_f": 33,
+                    "v_f_leadIn": 33,
+                    "v_f_leadOut": 33,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 33,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "Indexed 1.5\" Face/Shoulder Mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.4999999999999998,
+                "HAND": true,
+                "LB": 0.99999999999999989,
+                "LCF": 0.37499999999999994,
+                "NOF": 3,
+                "NT": 0,
+                "OAL": 1.5629999999999997,
+                "RE": 0,
+                "SFDM": 0.99999999999999989,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.49999999999999994,
+                "thread-profile-angle": 0,
+                "tip-diameter": 1.4999999999999998,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "97348183-ab12-4405-9d30-801a9a12871a",
+            "holder": {
+                "description": "\"TTS-3/8\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31820",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1547197808072,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 101,
+                "length-offset": 101,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 101,
+                "tool-coolant": "mist",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/indexable-cutting/indexable-milling/1-1-2-90-degree-square-shoulder-indexable-face-mill-tpg-insert-1",
+            "shaft": {
+                "guid": "8e512cdb-1792-4d31-b3a4-875acaf35228",
+                "segments": [
+                    {
+                        "height": 0.46500000000000002,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.2
+                    }
+                ],
+                "type": "shaft",
+                "unit": "inches"
+            },
+            "start-values": {
+                "*": {
+                    "f_n": 0.002,
+                    "f_z": 0.0050666666666666664,
+                    "n": 2500,
+                    "n_ramp": 2500,
+                    "v_c": 981.74770424681003,
+                    "v_f": 38,
+                    "v_f_leadIn": 35,
+                    "v_f_leadOut": 35,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 35,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .125\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.12499999999999999,
+                "HAND": true,
+                "LB": 0.49999999999999994,
+                "LCF": 0.37499999999999994,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.99999999999999989,
+                "RE": 0.062499999999999993,
+                "SFDM": 0.37499999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.37499999999999994,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "997edf37-0f7f-414e-a0f7-df6504e74760",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821357137,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 142,
+                "length-offset": 142,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 142,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "shaft": {
+                "guid": "c71a13fd-9684-4957-8091-022aae3b468b",
+                "segments": [
+                    {
+                        "height": 0.375,
+                        "lower-diameter": 0.125,
+                        "upper-diameter": 0.375
+                    }
+                ],
+                "type": "shaft",
+                "unit": "inches"
+            },
+            "start-values": {
+                "*": {
+                    "f_n": 0.00097276264591439679,
+                    "f_z": 0.00079999999999999971,
+                    "n": 5140,
+                    "n_ramp": 5140,
+                    "v_c": 168.20610666095348,
+                    "v_f": 8.2239999999999984,
+                    "v_f_leadIn": 10.999999999999998,
+                    "v_f_leadOut": 10.999999999999998,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 10.999999999999998,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .375\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.37499999999999994,
+                "HAND": true,
+                "LB": 0.99999999999999989,
+                "LCF": 0.99999999999999989,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.99999999999999989,
+                "RE": 0,
+                "SFDM": 0.37499999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.99999999999999989,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.37499999999999994,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "9ce7dcec-a78d-47bd-98d8-78620ee9631e",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821338277,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 134,
+                "length-offset": 134,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 134,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0010908313443841818,
+                    "f_z": 0.0043633253775367271,
+                    "n": 4583.6600000000008,
+                    "n_ramp": 4583.6600000000008,
+                    "v_c": 449.99976820479344,
+                    "v_f": 40,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "2 Flute 90° HSS Uncoated",
+            "geometry": {
+                "CSP": true,
+                "DC": 0.37499999999999994,
+                "HAND": true,
+                "LB": 0.99999999999999989,
+                "LCF": 0.24999999999999997,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 3.4999999999999996,
+                "RE": 0,
+                "SFDM": 0.37499999999999994,
+                "SIG": 90,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.24999999999999997,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "a686d977-4b7d-4371-8a65-5b77c68caf00",
+            "holder": {
+                "description": "TTS-ER20 Holder",
+                "guid": "",
+                "product-id": "31829",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.12992100000000001,
+                        "lower-diameter": 1.02362,
+                        "upper-diameter": 1.3385800000000001
+                    },
+                    {
+                        "height": 0.748031,
+                        "lower-diameter": 1.3385800000000001,
+                        "upper-diameter": 1.3385800000000001
+                    },
+                    {
+                        "height": 0.59055100000000005,
+                        "lower-diameter": 0.98425200000000002,
+                        "upper-diameter": 0.98425200000000002
+                    },
+                    {
+                        "height": 0.26378000000000001,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488199999999994,
+                        "lower-diameter": 1.1614199999999999,
+                        "upper-diameter": 1.1614199999999999
+                    },
+                    {
+                        "height": 0.26889800000000003,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1547202211354,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 126,
+                "length-offset": 126,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 126,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "33481",
+            "product-link": "https://www.tormach.com/part/33481",
+            "start-values": {
+                "*": {
+                    "f_n": 0.00049999919703437926,
+                    "f_z": 0.0022000000000000001,
+                    "n": 4074.366543152521,
+                    "n_ramp": 4074.366543152521,
+                    "v_c": 399.99999999999989,
+                    "v_f": 17.927212789871092,
+                    "v_f_leadIn": 4.07437,
+                    "v_f_leadOut": 4.07437,
+                    "v_f_plunge": 2.0371800000000002,
+                    "v_f_ramp": 2.0371800000000002,
+                    "v_f_retract": 2.0371800000000002
+                }
+            },
+            "type": "spot drill",
+            "unit": "inches",
+            "vendor": "Tormach"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "Spot Drill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.24999999999999997,
+                "HAND": true,
+                "LB": 0.49999999999999994,
+                "LCF": 0.40000000000000002,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.49999999999999994,
+                "RE": 0,
+                "SFDM": 0.24999999999999997,
+                "SIG": 118,
+                "TA": 45,
+                "TP": 0,
+                "shoulder-length": 0.49999999999999994,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.12499999999999999,
+                "tip-length": 0.22999999999999998,
+                "tip-offset": 0
+            },
+            "guid": "bc0e521e-6be1-4d34-b0ed-3c4fa3b51172",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "segments": [
+                    {
+                        "height": 0.14799999999999999,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.83599999999999997,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.17599999999999999,
+                        "lower-diameter": 1.5700000000000001,
+                        "upper-diameter": 1.5700000000000001
+                    },
+                    {
+                        "height": 0.089999999999999997,
+                        "lower-diameter": 1.5700000000000001,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.42499999999999999,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.050000000000000003,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.8500000000000001
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.4420000000000002,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14499999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.11799999999999999,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14299999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.4420000000000002
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1540822925747,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 125,
+                "length-offset": 125,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 125,
+                "tool-coolant": "disabled",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0026246799999999999,
+                    "f_z": 0.0039370100000000003,
+                    "n": 5000,
+                    "n_ramp": 5000,
+                    "v_c": 327.24923474893671,
+                    "v_f": 39.370100000000001,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 13.1234,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 90
+                }
+            },
+            "type": "center drill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .125\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.12499999999999999,
+                "HAND": true,
+                "LB": 0.49999999999999994,
+                "LCF": 0.37499999999999994,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 0.99999999999999989,
+                "RE": 0,
+                "SFDM": 0.37499999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.37499999999999994,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.12499999999999999,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "cf7b40fc-6669-46d4-ad73-99f93fd330f2",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821316740,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 140,
+                "length-offset": 140,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 140,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/cutting/end-mills/1-8-x-3-8-hss-2-flute-single-end-mill",
+            "shaft": {
+                "guid": "9cc50fb4-2f2e-4014-acb4-0bcc80a5205b",
+                "segments": [
+                    {
+                        "height": 0.375,
+                        "lower-diameter": 0.125,
+                        "upper-diameter": 0.375
+                    }
+                ],
+                "type": "shaft",
+                "unit": "inches"
+            },
+            "start-values": {
+                "*": {
+                    "f_n": 0.00097276264591439679,
+                    "f_z": 0.0010894941634241244,
+                    "n": 5140,
+                    "n_ramp": 5140,
+                    "v_c": 168.20610666095348,
+                    "v_f": 11.199999999999998,
+                    "v_f_leadIn": 10.999999999999998,
+                    "v_f_leadOut": 10.999999999999998,
+                    "v_f_plunge": 5,
+                    "v_f_ramp": 10.999999999999998,
+                    "v_f_retract": 5
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "2 Flute .5\" Ballmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.49999999999999994,
+                "HAND": true,
+                "LB": 1.1000000000000001,
+                "LCF": 0.99999999999999989,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 1.9684999999999999,
+                "RE": 0.24999999999999997,
+                "SFDM": 0.49999999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.99999999999999989,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "e62ec66b-1cd8-4c2d-8168-b8f3f1390c6e",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1540821034562,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 133,
+                "length-offset": 133,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 133,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "404-5956",
+            "product-link": "https://www.shars.com/products/cutting/end-mills/1-2-x-1-2-hss-2-flute-single-end-balls-nose-end-mill",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0026246799999999999,
+                    "f_z": 0.0039370100000000003,
+                    "n": 5000,
+                    "n_ramp": 5000,
+                    "v_c": 654.49846949787343,
+                    "v_f": 39.370100000000001,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 13.1234,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 13.1234
+                }
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "Indexed .5\" Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.49999999999999994,
+                "HAND": true,
+                "LB": 1.9684999999999999,
+                "LCF": 0.49999999999999994,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 1.9684999999999999,
+                "RE": 0,
+                "SFDM": 0.49999999999999994,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.49999999999999994,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0.49999999999999994,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "ec6901fe-521e-46b3-8110-711c1d9a70da",
+            "holder": {
+                "description": "\"TTS-1/2\"\" Set Screw Holder\"",
+                "guid": "",
+                "product-id": "31821",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.42204724409448802,
+                        "lower-diameter": 0.86614173228346503,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.74803149606299202,
+                        "lower-diameter": 1.25984251968504,
+                        "upper-diameter": 1.25984251968504
+                    },
+                    {
+                        "height": 0.26377952755905498,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    },
+                    {
+                        "height": 0.094488188976377993,
+                        "lower-diameter": 1.16141732283465,
+                        "upper-diameter": 1.16141732283465
+                    },
+                    {
+                        "height": 0.26889763779527598,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.5
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Tormach"
+            },
+            "last_modified": 1547197757717,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 103,
+                "length-offset": 103,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 103,
+                "tool-coolant": "mist",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://www.shars.com/products/indexable-cutting/indexable-milling/1-2-mini-indexable-end-mills",
+            "start-values": {
+                "*": {
+                    "f_n": 0.0026246799999999999,
+                    "f_z": 0.0078740200000000007,
+                    "n": 5000,
+                    "n_ramp": 5000,
+                    "v_c": 654.49846949787343,
+                    "v_f": 39.370100000000001,
+                    "v_f_leadIn": 39.370100000000001,
+                    "v_f_leadOut": 39.370100000000001,
+                    "v_f_plunge": 13.1234,
+                    "v_f_ramp": 13.1234,
+                    "v_f_retract": 13.1234
+                }
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Shars"
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "1/2",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.49999999999999994,
+                "HAND": true,
+                "LB": 5.0999999999999996,
+                "LCF": 5,
+                "NOF": 1,
+                "NT": 0,
+                "OAL": 5.1999999999999993,
+                "RE": 0,
+                "SFDM": 0.49999999999999994,
+                "SIG": 118,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 5,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "fcd6841a-0eae-4541-ab59-0a612f1e673a",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.14799999999999999,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.83599999999999997,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.17599999999999999,
+                        "lower-diameter": 1.5700000000000001,
+                        "upper-diameter": 1.5700000000000001
+                    },
+                    {
+                        "height": 0.089999999999999997,
+                        "lower-diameter": 1.5700000000000001,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.42499999999999999,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.050000000000000003,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.8500000000000001
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.4420000000000002,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14499999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.11799999999999999,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.2149999999999999
+                    },
+                    {
+                        "height": 0.079000000000000001,
+                        "lower-diameter": 2.2149999999999999,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.14299999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.5019999999999998
+                    },
+                    {
+                        "height": 0.029999999999999999,
+                        "lower-diameter": 2.5019999999999998,
+                        "upper-diameter": 2.4420000000000002
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "last_modified": 1547191662455,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 121,
+                "length-offset": 121,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 121,
+                "tool-coolant": "flood",
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "*": {
+                    "f_n": 0.01,
+                    "n": 1527.8874536821952,
+                    "n_ramp": 1527.8874536821952,
+                    "v_c": 199.99999999999994,
+                    "v_f": 0,
+                    "v_f_leadIn": 0,
+                    "v_f_leadOut": 0,
+                    "v_f_plunge": 15.278874536821952,
+                    "v_f_ramp": 0,
+                    "v_f_retract": 90
+                }
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        }
+    ],
+    "version": 1
+}
